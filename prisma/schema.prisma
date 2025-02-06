@@ -13,6 +13,7 @@ datasource db {
   url      = env("DATABASE_URL")
 }
 
+// model Table name {column}
 model Product {
   product_id     String @id @default(uuid())
   image_url      String?
