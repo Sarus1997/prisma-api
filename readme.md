@@ -1,5 +1,16 @@
 # Test Prisma
 
+1. Clone project: 
+    ```sh
+   git clone https://github.com/Sarus1997/prisma-api.git
+    ```
+
+1. Installation: 
+    ```sh
+   npm install
+    ```
+#
+
 This is a test project for [Prisma](https://www.prisma.io/), a powerful ORM for Node.js and TypeScript.
 
 ## Features
@@ -10,7 +21,7 @@ This is a test project for [Prisma](https://www.prisma.io/), a powerful ORM for 
 
 ## Installation
 
-Follow these steps to install and set up Prisma:
+Installation example to install and set up Prisma:
 
 1. Initialize your project:
     ```sh
